@@ -21,7 +21,7 @@ FAT is developed in Python 3. However you need to have both Python 3 and Python 
 To install just clone the repository and run the script `./setup.sh`.
 
 ```
-git clone https://github.com/attify/firmware-analysis-toolkit
+git clone https://github.com/artimecee/firmware-analysis-toolkit.git
 cd firmware-analysis-toolkit
 ./setup.sh
 ```
