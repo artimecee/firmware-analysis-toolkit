@@ -10,7 +10,7 @@ then
 fi
 
 echo "Installing binwalk"
-git clone https://github.com/OSPG/binwalk.git
+git clone https://github.com/artimecee/binwalk.git
 cd binwalk
 
 # Temporary fix for sasquatch failing to install (From https://github.com/ReFirmLabs/binwalk/pull/601)
