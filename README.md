@@ -1,3 +1,6 @@
+# installation bugs fixed
+
+
 # Firmware Analysis Toolkit 
 
 FAT is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is also used in the "*[Offensive IoT Exploitation](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation)*" training conducted by [Attify](https://attify.com). 
