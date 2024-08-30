@@ -21,7 +21,8 @@ cd binwalk
 sudo ./deps.sh --yes
 sudo python3 ./setup.py install
 sudo -H pip3 install git+https://github.com/ahupp/python-magic
-#sudo -H pip3 jefferson
+sudo -H pip3 jefferson
+sudo -H pip3 install yaffshiv
 cd ..
 
 echo "Installing firmadyne"
